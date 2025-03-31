@@ -40,4 +40,4 @@ A comprehensive Android application designed to help farmers manage their agricu
 - Android Studio Arctic Fox or newer
 - Minimum SDK: 24 (Android 7.0)
 - Target SDK: 34
-- Internet permission for API calls 
+- Internet permission for API calls
